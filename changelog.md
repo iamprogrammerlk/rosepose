@@ -15,3 +15,8 @@
 > [!IMPORTANT]
 >
 > Always keep the latest changes on top of the log file.
+
+# rosepose_v1.0.0 (2025-01-21)
+
+- First release of the Rose Pose theme.
+-
